@@ -1,3 +1,4 @@
+/*
 .App {
   text-align: center;
 }
@@ -36,4 +37,9 @@
   100% {
     transform: translateY(0px)
   }
+}
+*/
+
+.App {
+  background-color: #111;
 }
